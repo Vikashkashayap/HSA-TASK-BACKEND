@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+*.log
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Coverage / testing
+coverage/
+.nyc_output/
+
+# Misc
+*.pem
