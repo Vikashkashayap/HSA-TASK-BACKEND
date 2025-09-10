@@ -12,6 +12,7 @@ out/
 *.log
 
 # dotenv environment variables agg
+.env
 .env.local
 .env.*.local
 
